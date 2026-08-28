@@ -22,4 +22,7 @@ public class Botella {
         this.CantidadDeBotellas = CantidadDeBotellas;
         this.precio = precio;
     }
+    public void mostrarInformacion() {
+        System.out.println("Botella: " + marca + " " + Tipo + " | Cantidad de Botellas: " + CantidadDeBotellas + " | Precio: $" + precio);
+    }
 }
