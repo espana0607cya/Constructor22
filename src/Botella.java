@@ -10,4 +10,10 @@ public class Botella {
         this.CantidadDeBotellas = 2;
         this.precio = 180.000;
     }
+    public Botella(String marca, String Tipo, int CantidadDeBotellas) {
+        this.marca = marca;
+        this.Tipo = Tipo;
+        this.CantidadDeBotellas = 1;
+        this.precio = 405.000;
+    }
 }
