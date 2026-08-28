@@ -7,5 +7,7 @@ public class Main {
 
         Botella Botella2 = new Botella("Don Julio", "Tquila", 2);
 
+        Botella Botella3 = new Botella("Smirnoff Tamarindo", "Vodka", 3, 55.000);
+
     }
     }
