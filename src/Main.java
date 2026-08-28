@@ -4,5 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         Botella Botella1 = new Botella("Buchanans", "Whisky");
-        }
+
+        Botella Botella2 = new Botella("Don Julio", "Tquila", 2);
+
+    }
     }
